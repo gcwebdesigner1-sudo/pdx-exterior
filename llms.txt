@@ -1,0 +1,11 @@
+# PDX Exterior LLC
+
+> Exterior cleaning company based in Oregon City, Oregon, serving the Portland metro area. Owner: Daniel Vasilchenko.
+
+- Services: roof cleaning and moss removal, gutter cleaning, driveway/walkway/patio pressure washing, house and siding washing
+- Phone: (971) 204-3107 (call or text)
+- Hours: every day, 7 AM to 7 PM
+- Areas: Portland, Oregon City, West Linn, Lake Oswego, Milwaukie, Gladstone, Happy Valley, Clackamas, Tualatin, Canby
+- Payment: cash, check, Venmo, Zelle
+- Google rating: 5.0 from 23 reviews (https://maps.google.com/?cid=8303940400924187103)
+- Website: https://gcwebdesigner1-sudo.github.io/pdx-exterior/

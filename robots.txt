@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /raw/
+
+Sitemap: https://gcwebdesigner1-sudo.github.io/pdx-exterior/sitemap.xml
